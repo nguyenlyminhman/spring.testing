@@ -1,4 +1,4 @@
-package com.spring.testing;
+package com.spring.testing.users.unit;
 
 import com.spring.testing.exception.DuplicateEmailException;
 import com.spring.testing.exception.ResourceNotFoundException;

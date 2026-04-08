@@ -1,4 +1,4 @@
-package com.spring.testing;
+package com.spring.testing.users.e2e;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.spring.testing.users.dto.request.CreateUserRequest;

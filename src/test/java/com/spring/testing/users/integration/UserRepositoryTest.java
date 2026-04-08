@@ -1,4 +1,4 @@
-package com.spring.testing;
+package com.spring.testing.users.integration;
 
 import com.spring.testing.users.entities.UserEntity;
 import com.spring.testing.users.repository.UserRepository;
